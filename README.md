@@ -11,7 +11,7 @@ https://github.com/tamabii/swisstronik-mint-PERC-20-tokens.git
 ```
 
 ```
-cd swisstronik-erc20mint-token
+cd swisstronik-mint-PERC-20-tokens
 ```
 
 ### 2. Install Dependency
